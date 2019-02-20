@@ -1,2 +1,3 @@
 # trongo
-The tron go contract address.
+The contract source of trongo.
+
